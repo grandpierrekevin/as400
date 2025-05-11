@@ -1,0 +1,1 @@
+import{r}from"./index-C3OZepGg.js";function l(n,e){const[o,s]=r.useState(0),a=Math.ceil(n.length/e),c=r.useMemo(()=>{const t=o*e;return n.slice(t,t+e)},[n,o,e]);return{page:o,setPage:s,totalPages:a,paginated:c,nextPage:()=>{s(t=>t<a-1?t+1:t)},prevPage:()=>{s(t=>t>0?t-1:0)},resetPage:()=>s(0)}}export{l as u};

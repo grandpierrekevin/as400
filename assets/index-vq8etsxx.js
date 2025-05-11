@@ -1,4 +1,4 @@
-import{r as c,j as e,u as h}from"./index-9msEgv5i.js";import{u as g}from"./useAS400KeyboardNav-DSGt_4A4.js";import{F as N}from"./FooterNavigation-DiPulaqh.js";const j=[{name:"CLIENT",type:"RPGLE",text:"Gestion des clients",content:`C     *ENTRY    PLIST
+import{r as c,j as e,u as h}from"./index-C3OZepGg.js";import{u as g}from"./useAS400KeyboardNav-BvXbhQ8o.js";import{F as N}from"./FooterNavigation-BHn45CDL.js";const j=[{name:"CLIENT",type:"RPGLE",text:"Gestion des clients",content:`C     *ENTRY    PLIST
 C              PARM      CLIENT`},{name:"FCTCMD",type:"CLP",text:"Soumission factures",content:`PGM
 SBMJOB CMD(CALL PGM(FCTGEN))
 ENDPGM`},{name:"SPLLOG",type:"RPGLE",text:"Journal des spools",content:`C     *ENTRY    PLIST

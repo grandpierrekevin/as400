@@ -1,1 +1,0 @@
-import{j as e}from"./index-9msEgv5i.js";function r(){return e.jsx("footer",{className:"fixed bottom-0 left-0 w-full border-t border-green-500 text-xs font-bold px-4 py-1 bg-black z-50 mb-3",children:e.jsxs("div",{className:"flex justify-between",children:[e.jsx("span",{children:"F3=Quitter"}),e.jsx("span",{children:"F12=Retour"})]})})}export{r as F};
